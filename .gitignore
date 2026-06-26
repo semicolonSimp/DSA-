@@ -1,0 +1,23 @@
+# Executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Code::Blocks
+*.layout
+
+# CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+
+# Temporary files
+tempCodeRunnerFile.*
